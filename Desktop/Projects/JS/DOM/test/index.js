@@ -40,7 +40,7 @@ function createBurger(burger) { // this is creating the burger, styling it, and 
 
   // 3. slap it on the DOM
       // renders the content onto the HTML. In this case, we're new 'div' element we created on line 35
-  burgerDiv.append(burgermenuItem);
+  // burgerDiv.append(burgermenuItem);
 
 }
 
